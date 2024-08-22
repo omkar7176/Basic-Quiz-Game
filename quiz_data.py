@@ -6,9 +6,9 @@ quiz_data = [
         "correct": 2
     },
     {
-        "question": "What is the capital of France?",
-        "options": ["Paris", "London", "Berlin", "Rome"],
-        "correct": 0
+        "question": "Which of the following data types is immutable in Python?",
+        "options": ["List", "Dictionary", "Set", "Tuple"],
+        "correct": 3
     },
     {
         "question": "What is the largest planet in our solar system?",
@@ -16,8 +16,8 @@ quiz_data = [
         "correct": 2
     },
     {
-        "question": "What is the smallest country in the world?",
-        "options": ["Vatican City", "Monaco", "Nauru", "Tuvalu"],
-        "correct": 0
+        "question": "Which of the methods can be used to remove an item from a list in Python by its value??",
+        "options": ["pop()", "remove()", "del", "discard()"],
+        "correct": 1
     }
 ]
