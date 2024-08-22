@@ -20,7 +20,7 @@ A simple quiz game implemented in Python. The game consists of a set of question
 
 1. Clone the repository to your local machine.
 2. Navigate to the repository directory in your terminal or command prompt.
-3. Run the game by executing python main.py.
+3. Run the quiz by executing python quiz.py in your terminal.
 
 <h4>Contributing: </h4>
 
